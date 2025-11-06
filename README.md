@@ -4,6 +4,7 @@
 
 ## Yusuf Yamak
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yamakyusuf4&hide_border=true&background=00000000&ring=DC143C&fire=DC143C&currStreakNum=FFFFFF&currStreakLabel=DC143C&sideNums=FFFFFF&sideLabels=DC143C&dates=7F7F7F">
+
 **About Me**
 
 - Computer Science Student @ UoN
